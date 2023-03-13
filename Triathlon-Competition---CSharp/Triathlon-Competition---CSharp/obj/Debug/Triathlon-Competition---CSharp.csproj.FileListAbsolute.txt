@@ -1,0 +1,7 @@
+C:\claudiu\Proiecte personale\Triathlon-competition---CSharp\Triathlon-Competition---CSharp\Triathlon-Competition---CSharp\bin\Debug\Triathlon_Competition___CSharp.exe
+C:\claudiu\Proiecte personale\Triathlon-competition---CSharp\Triathlon-Competition---CSharp\Triathlon-Competition---CSharp\bin\Debug\Triathlon_Competition___CSharp.pdb
+C:\claudiu\Proiecte personale\Triathlon-competition---CSharp\Triathlon-Competition---CSharp\Triathlon-Competition---CSharp\obj\Debug\Triathlon-Competition---CSharp.csproj.AssemblyReference.cache
+C:\claudiu\Proiecte personale\Triathlon-competition---CSharp\Triathlon-Competition---CSharp\Triathlon-Competition---CSharp\obj\Debug\Triathlon-Competition---CSharp.csproj.SuggestedBindingRedirects.cache
+C:\claudiu\Proiecte personale\Triathlon-competition---CSharp\Triathlon-Competition---CSharp\Triathlon-Competition---CSharp\obj\Debug\Triathlon-Competition---CSharp.csproj.CoreCompileInputs.cache
+C:\claudiu\Proiecte personale\Triathlon-competition---CSharp\Triathlon-Competition---CSharp\Triathlon-Competition---CSharp\obj\Debug\Triathlon_Competition___CSharp.exe
+C:\claudiu\Proiecte personale\Triathlon-competition---CSharp\Triathlon-Competition---CSharp\Triathlon-Competition---CSharp\obj\Debug\Triathlon_Competition___CSharp.pdb
