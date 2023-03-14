@@ -3,7 +3,7 @@ using Proiect_csharp.Domain;
 
 namespace Proiect_csharp.Repository
 {
-    public abstract class InMemoryRepository: Repository<int, Contest>
+    public abstract class ContestRepository: Repository<int, Contest>
     {
         public Contest findOne(int id)
         {
